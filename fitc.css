@@ -1,0 +1,33 @@
+body 
+{
+	margin-left: auto;
+	margin-right: auto;
+	width:980px;
+	padding-top:30px;
+	text-align:center;
+	background-color:#FFFFFF;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	
+}
+a {color:#666666; text-decoration:none; }
+.container {width:inherit; text-align:left;}
+.nav {width:inherit; text-align:center;}
+.head0 {font-size:20px;color:#000000; text-align:left;}
+.projTitle {font-weight:bold; line-height:18px;letter-spacing:0.1em; padding-bottom:10px; color:#333333; text-align:left;}
+.projDesc { font-weight:normal;font-size:11px; letter-spacing:0.05em; text-align:left;}
+.projLink{font-weight:normal;font-size:9px;};
+.projInfo{ line-height:15px; font-size:9px;};
+#Content {
+	margin-left: auto;
+	margin-right: auto;
+	width:960px;
+	height:auto;
+	float:none;
+}
+.leftContain{
+	margin:0; padding:0; width:700px; text-align:left; float:left; height:auto; 
+}
+.rightContain{
+	margin-left:50px; padding:0; width:230px; text-align:left; float:left; height:auto;
+}
